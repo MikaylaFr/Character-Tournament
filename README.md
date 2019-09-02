@@ -34,3 +34,5 @@ Vampire
   Attack: One 12 sided dice
   Armor: 1
   Strength: 18
+  
+Makefile is a Unix-Enviroment compilation tool. If you have a different compiler, do not include the makefile.
